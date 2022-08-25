@@ -1,4 +1,4 @@
-# github
-Hi Class COP 4283
-Welcome to my repo.
+# This is for ucf class cop 4283
+Hi Welcome!
+
 Please push your your notbook helloworld.ipynb file to this repo.
